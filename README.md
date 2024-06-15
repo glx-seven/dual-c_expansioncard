@@ -9,6 +9,7 @@ In the .zip archive are all electronic design files included, this revision has 
 
 The STEP-file is a prototype for an enclosure, the .txt-file mentions the needed additional hardware (heat inserts and spacers for PCB-installation).
 
+There's quiet a long thread in the framework forums documenting the work (and the ones of some others) if you are interested in further details and reading. The process is starting around here: https://community.frame.work/t/dual-usb-c-expansion-card/2325/130?u=tbe
 
 Here are some pictures of the prototype-PCB:
 

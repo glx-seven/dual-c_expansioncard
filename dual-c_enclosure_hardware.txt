@@ -1,0 +1,2 @@
+Heat-inserts: https://www.digikey.de/de/products/detail/tri-star-industries-inc/M20X100C/14205386
+Spacers between PCBs: https://www.digikey.de/de/products/detail/bivar-inc/937-030/3094246
